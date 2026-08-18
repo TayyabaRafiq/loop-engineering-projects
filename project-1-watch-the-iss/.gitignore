@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Claude Code local/runtime files
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

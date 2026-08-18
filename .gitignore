@@ -1,0 +1,6 @@
+# Course/source repository — keep local, do not include in main repo
+agentfactory-labs/
+
+# Python cache
+__pycache__/
+*.py[cod]
