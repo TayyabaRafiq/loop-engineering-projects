@@ -1,0 +1,20 @@
+[
+  {
+    "id": "candidate-1",
+    "title": "average() crashes on empty list",
+    "file": "calculator.py",
+    "test": "tests/test_calculator.py"
+  },
+  {
+    "id": "candidate-2",
+    "title": "reverse_words() mishandles spacing",
+    "file": "string_utils.py",
+    "test": "tests/test_string_utils.py"
+  },
+  {
+    "id": "candidate-3",
+    "title": "dedupe() loses first-occurrence order",
+    "file": "list_utils.py",
+    "test": "tests/test_list_utils.py"
+  }
+]
